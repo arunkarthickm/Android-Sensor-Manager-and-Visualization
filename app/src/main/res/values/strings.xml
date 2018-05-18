@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MC_Group22_Ass2</string>
+    <string name="Run">Start</string>
+    <string name="Stop">Stop</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="Gender">Gender</string>
+    <string name="Patient_ID">Patient Id</string>
+    <string name="Age">Age</string>
+    <string name="download_db">Download</string>
+    <string name="upload_db">Upload</string>
+    <string name="Patient_Name">Patient Name</string>
+</resources>
